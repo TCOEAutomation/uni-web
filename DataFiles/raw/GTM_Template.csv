@@ -1,0 +1,7 @@
+,H,Max of 12 Char,,N,default val,,,default val,default val,,"Illegal Character (,  : >  <)""",,Max of 20 Char,Max of 20 Char,Max of 12 Char,
+,Receipt Method,Account Number,Reserved Date,Collector ID,Branch Code,Payment Amount,Payment Date,Issuer Bank,Check Number,Credit Card Number,Corp Name,Approval Number,Reference ID,Manual OR,MSISDN,Currency
+APPROVED,CA,1002930221,0,BCDOLMK,BR01,100,11/18/2021,,,,,APL01,,100023494,9068902831,PHP
+APPROVED,CKL,900082921,0,SFREIGHT,BR01,120.39,11/18/2021,BDO,276423746234,,,APL01,,100023495,,PHP
+REJECTED,CA,7001920303,0,BSMNORTH,,47.6,11/18/2021,,,,,APL01,,100023496,,PHP
+REJECTED,CA,,,JHFSLLS,,-9,11/19/2021,,,,,APL01,,19237003820840100000000,,SGD
+REJECTED,CHECK,1023499030584,,BAYAFAIRM,,12,11/18/2021,,,,,APL01,,100023498,,CAD

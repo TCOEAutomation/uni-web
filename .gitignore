@@ -1,0 +1,8 @@
+/target/
+bin/
+*.pyc
+.settings/
+test-output/
+Results/
+DataFiles/*.csv
+DataFiles/*.xlsx
